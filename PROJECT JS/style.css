@@ -1,0 +1,91 @@
+body{
+    background-color:rgb(241, 245, 236);
+}
+#mainContainer{
+    display: flex;
+    flex-direction: column;
+    margin: 80px;
+    padding: 30px;
+}
+#header {
+    color: rgb(2, 71, 124);
+    text-align: center;
+}
+#div_1{
+    margin: 15px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#input_1 {
+    outline: none;
+    padding: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: cursive;
+    width: 25%;
+    border-radius: 30px;
+    border: 2px solid rgb(169, 172, 166);
+    color:  rgb(8, 2, 0);
+}
+#select_1 {
+    width: 25%;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: cursive;
+    border-radius: 30px;
+    border: 2px solid rgb(169, 172, 166);
+    color: rgb(235, 68, 34);
+}
+#div_2{
+    margin: 15px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#input_2 {
+    outline: none;
+    padding: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: cursive;
+    width: 25%;
+    border-radius: 30px;
+    border: 2px solid rgb(169, 172, 166);
+    color:  rgb(8, 2, 0);
+}
+#select_2 {
+    width: 25%;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: cursive;
+    border-radius: 30px;
+    border: 2px solid rgb(169, 172, 166);
+    color: rgb(235, 68, 34);
+}
+#div_3{
+    margin: 15px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#input_3 {
+    outline: none;
+    padding: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: cursive;
+    width: 25%;
+    border-radius: 30px;
+    border: 2px solid rgb(169, 172, 166);
+    color:  rgb(8, 2, 0);
+}
+#select_3 {
+    width: 25%;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: cursive;
+    border-radius: 30px;
+    border: 2px solid rgb(169, 172, 166);
+    color: rgb(235, 68, 34);
+}
