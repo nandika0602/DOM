@@ -1,4 +1,4 @@
-Autocomplete Feature with API Integration
+Autocomplete Feature with API Integration using DOM manipulation
 
 Overview
 => This project implements an autocomplete feature using data retrieved from an API. 
